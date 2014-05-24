@@ -9,6 +9,7 @@ Please complete the following steps before we start:
     * Windows & Mac OS X users can download and use the installer from [here](http://nodejs.org/download/ "Download NodeJS")
     * Linux users can download and use the binaries from [here](http://nodejs.org/download/ "Download NodeJS") OR:
     * Ubuntu users can run the following commands:
+         
          ```
          apt-get install python-software-properties
          apt-add-repository ppa:chris-lea/node.js
@@ -16,20 +17,23 @@ Please complete the following steps before we start:
          apt-get install nodejs
          ```
     * CentOS/RHEL users can run the following commands:         
+         
          ```
          yum -y update
          rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
-         yum install -y npm```
+         yum install -y npm
          ```
          
 3. Make sure you have **Git** client installed on your machine and that you can easily clone git repositories, if not, install it by:
     * Windows users can download and use the installer from [here](http://msysgit.github.com/ "Download Git")
     * Mac OS X users can download and use the installer from [here](http://sourceforge.net/projects/git-osx-installer/ "Download Git")
     * Ubuntu users can run the following commands:
+         
          ```
          apt-get install git
          ```
     * CentOS/RHEL users can run the following commands:
+         
          ```
          yum install git-core
          ```

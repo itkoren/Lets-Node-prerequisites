@@ -8,17 +8,14 @@ Please complete the following steps before we start:
 2. Download and install the current version of NodeJS on your machine:
     * Windows & Mac OS X users can download and use the installer from [here](http://nodejs.org/download/ "Download NodeJS")
     * Linux users can download and use the binaries from [here](http://nodejs.org/download/ "Download NodeJS") OR:
-    * Ubuntu users can run the following commands:```
-
+    * Ubuntu users can run the following commands:
          ```
          apt-get install python-software-properties
          apt-add-repository ppa:chris-lea/node.js
          apt-get update
          apt-get install nodejs
          ```
-
-    * CentOS/RHEL users can run the following commands:```
-         
+    * CentOS/RHEL users can run the following commands:         
          ```
          yum -y update
          rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
@@ -29,17 +26,14 @@ Please complete the following steps before we start:
     * Windows users can download and use the installer from [here](http://msysgit.github.com/ "Download Git")
     * Mac OS X users can download and use the installer from [here](http://sourceforge.net/projects/git-osx-installer/ "Download Git")
     * Ubuntu users can run the following commands:
-
          ```
          apt-get install git
          ```
-
     * CentOS/RHEL users can run the following commands:
-
          ```
          yum install git-core
          ```
-
+         
 4. Make sure you run and understand the WebServer and the TCPServer examples, Do it by:
     * ```git clone https://github.com/itkoren/Lets-Node-prerequisites.git prereq```
     * ```cd prereq```

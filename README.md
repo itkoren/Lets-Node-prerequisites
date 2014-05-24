@@ -69,4 +69,5 @@ Please complete the following steps before the course starts:
 
 8. Make sure you have an active **GitHub** account that you can log into - we may be using it during the course
 
+
 #####*If you completed all the above - You are ready to Node!!!*

@@ -50,14 +50,23 @@ Please complete the following steps before the course starts:
          yum install git-core
          ```
          
-5. Make sure you run and understand the WebServer and the TCPServer examples, Do it by:
-    * ```git clone https://github.com/itkoren/Lets-Node-prerequisites.git prereq```
-    * ```cd prereq```
-    * ```node webserver.js``` AND ```node tcpserver.js```
+5. Make sure you run and understand the WebServer and the TCPServer examples, Do it by using the following commands:
+     
+     ```
+     git clone https://github.com/itkoren/Lets-Node-prerequisites.git prereq
+     cd prereq
+     node webserver.js
+     ```  
+   AND 
+   
+     ```
+     node tcpserver.js
+     ```
 
 6. Make sure you have **IntelliJ IDEA** IDE or **WebStorm** IDE, installed on your machine, together with the NodeJS Plugin - Although you are free to use the IDE of your choice, I'll be using one of those IDE during the course, and I am not going to deal with debugging problems on other IDE's during the course
 
 7. Windows users, make sure you have **PuTTY** installed on your machine, if not, download and use the installer from [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html "Download PuTTY")
+
 8. Make sure you have an active **GitHub** account that you can log into - we may be using it during the course
 
 #####*If you completed all the above - You are ready to Node!!!*

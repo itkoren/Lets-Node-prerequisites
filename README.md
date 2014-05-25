@@ -1,7 +1,7 @@
 Lets Node - Course Prerequisites
 ================================
 
-Please complete the following steps before the course starts:
+Please complete the following steps before taking the course:
 
 1. Make sure you understand the basics of the Javascript language: **objects**, **prototype**, **functions**, **context** etc.
 

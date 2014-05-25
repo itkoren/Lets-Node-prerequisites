@@ -36,21 +36,21 @@ Please complete the following steps before the course starts:
      ```
    Output should be equals to '1.4.9'
    
-4. Make sure you have **Git** client installed on your machine and that you can easily clone git repositories, if not, install it by:
+4. Make sure you have a **Git** client installed on your machine and that you can easily clone git repositories, if not, install it by:
     * Windows users can download and use the installer from [here](http://msysgit.github.com/ "Download Git")
     * Mac OS X users can download and use the installer from [here](http://sourceforge.net/projects/git-osx-installer/ "Download Git")
-    * Ubuntu users can run the following commands:
+    * Ubuntu users can run the following command:
          
          ```
          apt-get install git
          ```
-    * CentOS/RHEL users can run the following commands:
+    * CentOS/RHEL users can run the following command:
          
          ```
          yum install git-core
          ```
          
-5. Make sure you run and understand the WebServer and the TCPServer examples, Do it by using the following commands:
+5. Make sure you run the WebServer and the TCPServer examples, Do it by using the following commands:
      
      ```
      git clone https://github.com/itkoren/Lets-Node-prerequisites.git prereq
@@ -65,9 +65,9 @@ Please complete the following steps before the course starts:
 
 6. Make sure you have **IntelliJ IDEA** IDE or **WebStorm** IDE, installed on your machine, together with the NodeJS Plugin - Although you are free to use the IDE of your choice, I'll be using one of those IDE during the course, and I am not going to deal with debugging problems on other IDE's during the course
 
-7. Windows users, make sure you have **PuTTY** installed on your machine, if not, download and use the installer from [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html "Download PuTTY")
+7. **Windows users**: make sure you have **PuTTY** installed on your machine, if not, download and use the installer from [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html "Download PuTTY")
 
-8. Make sure you have an active **GitHub** account that you can log into - we may be using it during the course
+8. Make sure you have an active **GitHub** account, which you can log into - we may be using it during the course
 
 
-#####*If you completed all the above - You are ready to Node!!!*
+#####*If you've completed all the above - You are ready to Node!!!*

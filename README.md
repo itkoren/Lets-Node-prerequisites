@@ -3,7 +3,7 @@ Lets Node - Course Prerequisites
 
 Please complete the following steps before taking the course:
 
-1. Basic understanding of the Javascript language: **objects**, **prototype**, **functions**, **context** etc.
+1. Make sure you have basic understanding of the Javascript language: **objects**, **prototype**, **functions**, **context** etc.
 
 2. Download and install the current version of NodeJS on your machine:
     * Windows & Mac OS X users can download and use the installer from [here](http://nodejs.org/download/ "Download NodeJS")

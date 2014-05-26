@@ -53,6 +53,7 @@ Please complete the following steps before taking the course:
 5. Make sure you run the WebServer and the TCPServer examples, Do it as follows:
      
     * Open Terminal/Command Prompt and Run the following commands
+         
          ```
          git clone https://github.com/itkoren/Lets-Node-prerequisites.git prereq
          cd prereq
@@ -63,11 +64,13 @@ Please complete the following steps before taking the course:
     * The output should be - "Hello World"
     * Press Ctrl+C twice and run the following command: 
    
+         
          ```
          node tcpserver.js
          ```
     * No output should be seen
     * Open another Terminal/Command Prompt and type:
+        
         ```
         telnet localhost 1337
         ```

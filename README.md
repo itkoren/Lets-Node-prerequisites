@@ -58,19 +58,19 @@ Please complete the following steps before taking the course:
      node webserver.js
      ```  
    The output should be - "Server running at http://127.0.0.1:1337/"
-   Open your favourite browser, and navigate to http://127.0.0.1:1337/
-   The output should be - "Hello World"
-   Press Ctrl+C twice and run the following command: 
+   * Open your favourite browser, and navigate to http://127.0.0.1:1337/
+   * The output should be - "Hello World"
+   * Press Ctrl+C twice and run the following command: 
    
-     ```
-     node tcpserver.js
-     ```
-   No output should be seen
-   Open another Terminal/Command Prompt and type:
+        ```
+        node tcpserver.js
+        ```
+   * No output should be seen
+   * Open another Terminal/Command Prompt and type:
         ```
         telnet localhost 1337
         ```
-   The output should include: "Connected to localhost"
+   * The output should include: "Connected to localhost"
         
 6. Make sure you have **IntelliJ IDEA** IDE or **WebStorm** IDE, installed on your machine, together with the NodeJS Plugin - Although you are free to use the IDE of your choice, I'll be using one of those IDE's during the course, and I am not going to deal with debugging problems on other IDE's during the course
 

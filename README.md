@@ -72,7 +72,7 @@ Please complete the following steps before taking the course:
         ```
         telnet localhost 1337
         ```
-    * The output should include: "Connected to localhost"
+    * The output should include: "Echo server"
         
 6. Make sure you have **IntelliJ IDEA** IDE or **WebStorm** IDE, installed on your machine, together with the NodeJS Plugin - Although you are free to use the IDE of your choice, I'll be using one of those IDE's during the course, and I am not going to deal with debugging problems on other IDE's during the course
 

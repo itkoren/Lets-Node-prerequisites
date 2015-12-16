@@ -41,6 +41,14 @@ Please complete the following steps before taking the course:
      ```
    Output should be equal to '1.4.9'
    
+   Sets your user account as the owner of the /usr/local directory, so that you can just issue normal commands in there.
+   This will allow using npm -g with no sudo.
+   Type:
+   
+      ```
+      sudo chown -R $USER /usr/local
+      ```
+   
 4. Make sure you have a **Git** client installed on your machine and that you can easily clone git repositories, if not, do as follows:
     * Windows users can download and use the installer from [here](http://msysgit.github.com/ "Download Git")
     * Mac OS X users can download and use the installer from [here](http://sourceforge.net/projects/git-osx-installer/ "Download Git")

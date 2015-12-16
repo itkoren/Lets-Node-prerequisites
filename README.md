@@ -20,6 +20,11 @@ Please complete the following steps before taking the course:
          
              ```
              yum -y update
+             sudo yum install nodejs npm --enablerepo=epel
+             ```
+             OR
+             ```
+             yum -y update
              rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
              yum install -y npm
              ```

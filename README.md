@@ -20,7 +20,7 @@ Please complete the following steps before taking the course:
          
              ```
              yum -y update
-             sudo yum install nodejs npm --enablerepo=epel
+             yum install -y npm --enablerepo=epel
              ```
              OR
              ```
